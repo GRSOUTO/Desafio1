@@ -1,0 +1,8 @@
+{
+  "cliente": "Ana",
+  "tipoCliente": "VIP",
+  "itens": [{"nome": "Teclado", "preco": 100.00, "quantidade": 2}],
+  "frete": "EXPRESSO",
+  "distanciaKm": 10,
+  "pagamento": "PIX"
+}
